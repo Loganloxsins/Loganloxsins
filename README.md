@@ -56,4 +56,6 @@ Here are some ideas to get you started:
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loganloxsins&hide=css&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
   
 ### 🚀 Action
-![visitor](https://visitor-badge.glitch.me/badge?page_id=Loganloxsins.readme)
+![visitor](https://komarev.com/ghpvc/?username=Loganloxsins)
+
+![Page Views Count](https://badges.toozhao.com/badges/01GZ9JZBGSS451QBX6GKCM0TYA/green.svg)
