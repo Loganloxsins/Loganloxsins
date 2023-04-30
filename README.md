@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
