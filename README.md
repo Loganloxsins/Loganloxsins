@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Latex](https://img.shields.io/badge/-Latex-008080?style=flat&logo=latex&logoColor=white)
+
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);std::cout%20<<%20%22Hello%2C%20World!%22;print(%22Hello%2C%20World!%22);document.write('Hello%2C%20World');&center=true">
