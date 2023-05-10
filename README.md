@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Loganloxsins&theme=dracula&show_icons=true" alt="maemreyo" width="380" height="152" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=Loganloxsins&theme=dracula&hide_border=false" alt="maemreyo" width="380" height="152"/>
+</p>
+
+
 
 ### 💬 Languages
 
