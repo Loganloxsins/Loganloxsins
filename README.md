@@ -79,6 +79,9 @@ Here are some ideas to get you started:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loganloxsins&hide=css,html,ShaderLab,HLSL&hide_border=true&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+
+
 
 ### 🛠 Tools
 
